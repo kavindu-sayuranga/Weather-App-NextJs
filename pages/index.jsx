@@ -25,7 +25,9 @@ export default function Home() {
     setLoading(false)
   }
 
-  
+  if (loading) {
+    return <Spinner />;
+  } else {
   return (
     <div>
         <Head>
@@ -72,4 +74,5 @@ export default function Home() {
         
     </div>
   )
+  }
 }
