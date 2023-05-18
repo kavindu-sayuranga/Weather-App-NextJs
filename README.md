@@ -1,3 +1,7 @@
+#  Weather App Using NEXT.JS and Tailwind Css
+![Screenshot 2023-05-18 131234](https://github.com/kavindu-sayuranga/Weather-App-NextJs/assets/101160368/6f54a860-a17b-406a-b107-839aec70c31e)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
