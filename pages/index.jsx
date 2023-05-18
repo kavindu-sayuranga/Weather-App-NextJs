@@ -49,7 +49,7 @@ export default function Home() {
 
         {/* Search */}
 
-        {/* <div className='relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 px-4 text-white z-10'>
+        <div className='relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 px-4 text-white z-10'>
           <form
           onSubmit={fetchWeather}
           className='flex justify-between items-center w-full m-auto p-3 bg-transparent border border-gray-300 text-white rounded-2xl'
@@ -65,7 +65,7 @@ export default function Home() {
 
             <button onClick={fetchWeather}><BsSearch size={20}/></button>
           </form>
-        </div> */}
+        </div>
 
         {/* Weather */}
         {/* {weather.main && <Weather data={weather} />} */}
